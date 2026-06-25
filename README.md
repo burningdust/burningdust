@@ -4,9 +4,9 @@
 Ewha Womans Univ.  
 Major : Economics / Statistics  
   
-e-mail
-narin_kim@ewha.ac.kr
-narinkim425@gmail.com
+e-mail  
+narin_kim@ewha.ac.kr  
+narinkim425@gmail.com  
 
 ### Language Stack  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
